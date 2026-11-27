@@ -3,10 +3,10 @@
 Portafolio web profesional desarrollado con **Next.js 14**, **React**, **TypeScript** y **Tailwind CSS**, recopilando los proyectos y aprendizajes de las 10 semanas de Algoritmos, Inteligencia Artificial, Machine Learning y Desarrollo Web.
 
 ## Vista Previa
-![Captura del Portafolio](./public/evidencias/preview.svg)
+(./public/evidencias/preview.svg)
 
 ## Enlace en Producción
-👉 [Ver portafolio en Vercel](https://portafolio-fabiola.vercel.app) *(Actualiza este enlace con tu URL real de Vercel)*
+ (https://portafolio-fabiola.vercel.app) *(Actualiza este enlace con tu URL real de Vercel)*
 
 ## Tecnologías Utilizadas
 - **Frontend:** Next.js 14 (App Router), React 18, TypeScript, Tailwind CSS, Lucide Icons, Next Themes
